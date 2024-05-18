@@ -2,11 +2,11 @@ import aboutus from "../assets/aboutus.png";
 const AboutUs = () => {
   return (
     <article className="flex">
-      <div className="flex-1 pl-16 pt-32">
+      <div className="flex-1 pl-44 pt-28">
         <img src={aboutus} alt="" className="h-[723px]" />
       </div>
 
-      <div className="flex-1 pt-[116px] pr-32">
+      <div className="flex-1 pt-[116px] ">
         <h1 className="flex text-orange font-poppins font-bold text-[18px] pb-6 ">
           {" "}
           <svg
