@@ -17,6 +17,7 @@ export default {
       'light-orange': '#EF7E43',
       'metal': '#313131',
       'silver': '#2E2E2E',
+      'light-silver': '#050505',
       
     },
   },
