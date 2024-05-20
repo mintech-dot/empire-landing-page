@@ -4,6 +4,7 @@ import AboutUs from "./components/AboutUs";
 import Ourservices from "./components/OurServices";
 import GetStarted from "./components/GetStarted";
 import OurTeam from "./components/OurTeam";
+import Footer from "./components/Footer";
 import "./index.css";
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
     <Ourservices />
     <GetStarted />
     <OurTeam />
+    <Footer />
   </div>;
 }
 
