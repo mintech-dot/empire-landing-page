@@ -2,7 +2,7 @@ import logo from "../assets/logo.svg";
 const Navbar = () => {
   return (
     <nav>
-      <div className="pt-[10px] pb-[9px] flex items-end justify-end text-base font-lato text-metal px-64">
+      <div className="pt-[10px] pb-[9px] flex items-end justify-end text-base font-lato text-metal lg:px-64 md:px-4 sm:px-4">
         <div className="flex gap-[9.6px] pr-9 py-2.5 ">
           <svg
             className="mt-1.5"

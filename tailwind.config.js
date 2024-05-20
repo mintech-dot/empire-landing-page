@@ -18,7 +18,8 @@ export default {
       'metal': '#313131',
       'silver': '#2E2E2E',
       'light-silver': '#050505',
-      
+      'light-silver1': '#515151',
+
     },
   },
   plugins: [],

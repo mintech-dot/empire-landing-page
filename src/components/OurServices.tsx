@@ -26,7 +26,7 @@ const Ourservices = () => {
         </p>
       </div>
 
-      <div className="absolute -bottom-[90px] left-60 flex justify-center items-center gap-7 ">
+      <div className="absolute -bottom-[90px] px-[229px] flex justify-center items-center gap-7 ">
         <div className=" border-1 bg-white rounded-lg shadow-lg  w-[362px] h-[374px] p-3.5 text-center">
           <img src={product1} alt="" className="relative bottom-[120px] " />
           <div className="relative bottom-[85px] px-4">
