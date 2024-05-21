@@ -1,134 +1,137 @@
 {
-  "button": "Book Now",
-  "logo": "../assets/logo.png",
-  "info": [
-    {
-      "phone": "1 (877) 618-0069",
-      "icon": ""
+  "navbar": {
+    "button": "Book Now",
+    "logo": "/assets/logo.svg",
+    "phone": {
+      "title": "1 (877) 618-0069",
+      "icon": "/assets/phone.svg"
     },
-    {
-      "email": "info@empireprepservices.com",
-      "icon": ""
+    "email": {
+      "title": "info@empireprepservices.com",
+      "icon": "/assets/mail.svg"
     },
-    {
-      "address": "California: 4010 Valley Blvd Ste 108, Walnut, CA 91789",
-      "icon": ""
-    }
-  ],
-  "navigation": [
-    {
-      "title": "Home",
-      " href": "#"
+    "address": {
+      "title": "California: 4010 Valley Blvd Ste 108, Walnut, CA 91789",
+      "icon": "/assets/map.svg"
     },
-    {
-      "title": "About us",
-      " href": "#"
-    },
-    {
-      "title": "Our Services",
-      " href": "#"
-    },
-    {
-      "title": "Our Team",
-      " href": "#"
-    },
-    {
-      "title": "Contact us",
-      " href": "#"
-    }
-  ],
+    "navigation": [
+      {
+        "title": "Home",
+        "href": "#",
+        "icon":"/assets/list.svg"
+      },
+      {
+        "title": "About us",
+        "href": "#",
+        "icon":"/assets/list.svg"
+      },
+      {
+        "title": "Our Services",
+        "href": "#",
+        "icon":"/assets/list.svg"
+      },
+      {
+        "title": "Our Team",
+        "href": "#",
+        "icon":"/assets/list.svg"
+      },
+      {
+        "title": "Contact us",
+        "href": "#",
+        "icon":"/assets/list.svg"
+      }
+    ]
+  },
+
   "footer": {
+    "logo": "/assets/logohere.svg",
+    "description":"USA & Canada specializes in providing world class prep solutions foryour Amazon FBA business.",
+    "button":"Book Now",
     "copyright": "Copyright © 2022. All Rights Reserved.",
-    "otherlink": "Terms & Conditions"
+    "otherlinks": "Terms & Conditions"
   },
   "hero": {
     "title": "Empire FBA Prep Services In USA",
     "description": " USA & Canada specializes in providing world class prep solutions for your Amazon FBA business.",
     "button": "Contact Us",
-    "image": "../assets/hero.png"
+    "image": "/assets/hero.png"
   },
   "aboutus": {
     "title": "About Us",
+    "title_": "/assets/mini.svg",
     "subtitle": "what we do",
-    "image": "../assets/aboutus.png",
+    "image": "/assets/aboutus.png",
     "description": "Empire FBA Prep Services In USA &Canada specializes in providing world class prep solutions for your Amazon FBA business. ",
     "whatwedo": [
       {
         "name": "RECEIVE YOUR INVENTORY",
         "description": "Send your products, packaging and inserts directly to one of our three locations strategically located in California, New York or Toronto Canada",
-        "icon": ""
+        "icon": "/assets/receive.svg"
       },
       {
         "name": "PREP AND LABEL",
         "description": "Our team will inspect all items before carefully wrapping, adding inserts, packing and attaching all the necessary labels required for delivery and receipt by Amazon",
-        "icon": ""
+        "icon": "/assets/prep.svg"
       },
       {
         "name": "SHIP TO AMAZON",
         "description": "Our staff of trained experts will complete your shipping plan, arrange pickup and delivery directly to your assigned Amazon fulfillment center",
-        "icon": ""
+        "icon": "/assets/car.svg"
       }
     ]
   },
-  "ourservices": [
-    {
-      "name": "Labeling",
-      "description": "Every unit, carton and pallet will be labeled by us as required. Rest easy knowing your shipments will arrive at their designated fulfillment centers as scheduled and on time",
-      "button": "READ MORE"
-    },
-    {
-      "name": "Bubble Wrap",
-      "description": "It’s crucial for inventory to arrive in pristine condition. All items will be carefully bubble wrapped and poly bagged as necessary to guarantee safe delivery",
-      "button": "READ MORE"
-    },
-    {
-      "name": "BUNDLING",
-      "description": "You’ve built the perfect bundle for your customers and every detail counts. Bundles will be packed by us according to current specifications as required by Amazon",
-      "button": "READ MORE"
-    }
-  ],
+  "ourservices": {
+    "description": "Our Services: Empire FBA Prep Services In USA &amp; Canada specializes in providing world class prep solutions for your Amazon FBA business. Whether you are new to Amazon or need a 3rd party logistics specialist to help scale your growing business we have solutions to meet all of your FBA prep needs large or small.",
+    "background_image": "/assets/map.png",
+    "services": [
+      {
+        "name": "Labeling",
+        "image": "/assets/product1.png",
+        "description": "Every unit, carton and pallet will be labeled by us as required. Rest easy knowing your shipments will arrive at their designated fulfillment centers as scheduled and on time",
+        "button": "READ MORE"
+      },
+      {
+        "name": "Bubble Wrap",
+        "image": "/assets/product2.png",
+        "description": "It’s crucial for inventory to arrive in pristine condition. All items will be carefully bubble wrapped and poly bagged as necessary to guarantee safe delivery",
+        "button": "READ MORE"
+      },
+      {
+        "name": "BUNDLING",
+        "image": "/assets/product3.png",
+        "description": "You’ve built the perfect bundle for your customers and every detail counts. Bundles will be packed by us according to current specifications as required by Amazon",
+        "button": "READ MORE"
+      }
+    ]
+  },
   "getstarted": {
     "title": "GET STARTED FOR AS LOW AS $0.50 ",
     "subtitle": "How it works: Complete our service request form and provide all the required details.",
     "description": "Once you are ready, send your products and custom packaging directly from your manufacturer or wholesaler to one of our three prep centers. Create an abbreviated shipping plan and grant Empire FBA Prep Services limited secure access via the Assistant Account on Amazon.",
     "button": "SEND A SHIPMENT FORM",
-    "services": [
+    "features": [
       {
         "title": "CREATE AN ABBREVITED SHIPPING PLAN ",
         "description": "Create a new shipping plan in Seller Central. List the products you are sending along with quantities and then you are done!",
-        "icon": ""
+        "icon": "/assets/cube.svg"
       },
       {
         "title": "SEND US YOUR INSTRUCTION ",
         "description": "Complete our service request form with detailed instructions or anything special you’d like for us to do.",
-        "icon": ""
+        "icon": "/assets/paper.svg"
       },
       {
         "title": "WE’LL TAKE IT FROM THERE",
         "description": "Using your input our experts will carefully prepare your shipment start to finish with impeccable care and attention to detail.",
-        "icon": ""
+        "icon": "/assets/deliveryCar.svg"
       }
     ]
   },
   "ourteam": {
-    "title": "",
-    "subtitle": "",
-    "team": [
-      {
-        "name": " Nima Hassanpour",
-        "rule": "President",
-        "pic": ""
-      },
-      {
-        "name": "John Soos",
-        "rule": "Chief Operating Officer",
-        "pic": ""
-      },
-      {
-        "name": " Larry Stuber",
-        "rule": "East Coast Account Manager",
-        "pic": ""
-      }
-    ]
+    "title": "Our Team",
+    "subtitle": " Empire FBA Prep services provide reliable Amazon FBA packaging and Prep services Ontario, California, Toronto, and Canada. Packaging is imperative to making a huge first impression with customers.",
+    "avatar1": "/assets/avatar1.png",
+    "avatar2": "/assets/avatar2.png",
+    "avatar3": "/assets/avatar3.png"
   }
 }

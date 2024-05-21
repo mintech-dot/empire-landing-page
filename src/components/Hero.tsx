@@ -1,6 +1,6 @@
-import hero from "../assets/hero.png";
-
+import config from "../config/index.json";
 const Hero = () => {
+  const { hero } = config;
   return (
     <section className="flex bg-orange w-full font-poppins ">
       {/* Text Content */}
@@ -15,13 +15,13 @@ const Hero = () => {
           your Amazon FBA business.
         </h2>
         <button className="bg-white my-7 text-orange font-semibold py-2.5 px-10 rounded-full ">
-          Contact Us
+          {hero.button}
         </button>
       </div>
 
       {/* Image */}
       <div className=" flex justify-end items-end ">
-        <img src={hero} className="w-[590px]" alt="Hero image" />
+        <img src={hero.image} className="w-[590px]" alt="Hero image" />
       </div>
     </section>
   );
