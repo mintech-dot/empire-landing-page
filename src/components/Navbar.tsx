@@ -39,7 +39,7 @@ const Navbar = () => {
         {/* Navigation links */}
         <ul className="flex text-white font-semibold pl-[180px] font-poppins text-[18px] gap-10 py-6">
           {navbar.navigation.map((navigation) => {
-            const { title , href } = navigation;
+            const { title, href } = navigation;
             return (
               <li key={href}>
                 <a href={href} className="hover:text-light-orange">
