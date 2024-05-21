@@ -1,30 +1,60 @@
-# React + TypeScript + Vite
+# Empire Landing Page Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This is my first project built from scratch using React.js. It is a landing page with UI/UX design inspired by a Figma kit created by [Hamza Rauf](https://www.figma.com/community/file/1371198461115048422).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **Not Responsive Website**
+- Modern UI/UX inspired by [Hamza Rauf](https://www.figma.com/community/file/1371198461115048422)'s Figma kit
+- Built with React.js & tailwind css.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Demo
 
-- Configure the top-level `parserOptions` property like this:
+Langing Page live [demo]().
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## Installation
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/mintech-dot/empire-landing-page.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd empire-landing-page
+    ```
+3. Install the dependencies:
+    ```bash
+    npm install
+    ```
+4. Start the development server:
+    ```bash
+    npm run dev
+    ```
+5. Open your browser and visit `http://localhost:5173`.
+
+
+## Contributing
+
+If you would like to contribute, please fork the repository and use a feature branch. Pull requests are welcome.
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a pull request
+
+## License
+
+This project is licensed under the MIT License. 
+
+## Contact
+
+Provide your contact information here. For example:
+
+- GitHub: [mintech](https://github.com/mintech-dot)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sobhi-raid/)
+
