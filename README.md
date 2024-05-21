@@ -1,5 +1,8 @@
 # Empire Landing Page Project
 
+![Design preview for the landing page](./public/assets/landing.png)
+
+
 ## Description
 
 This is my first project built from scratch using React.js. It is a landing page with UI/UX design inspired by a Figma kit created by [Hamza Rauf](https://www.figma.com/community/file/1371198461115048422).
