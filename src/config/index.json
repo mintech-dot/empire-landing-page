@@ -1,0 +1,134 @@
+{
+  "button": "Book Now",
+  "logo": "../assets/logo.png",
+  "info": [
+    {
+      "phone": "1 (877) 618-0069",
+      "icon": ""
+    },
+    {
+      "email": "info@empireprepservices.com",
+      "icon": ""
+    },
+    {
+      "address": "California: 4010 Valley Blvd Ste 108, Walnut, CA 91789",
+      "icon": ""
+    }
+  ],
+  "navigation": [
+    {
+      "title": "Home",
+      " href": "#"
+    },
+    {
+      "title": "About us",
+      " href": "#"
+    },
+    {
+      "title": "Our Services",
+      " href": "#"
+    },
+    {
+      "title": "Our Team",
+      " href": "#"
+    },
+    {
+      "title": "Contact us",
+      " href": "#"
+    }
+  ],
+  "footer": {
+    "copyright": "Copyright © 2022. All Rights Reserved.",
+    "otherlink": "Terms & Conditions"
+  },
+  "hero": {
+    "title": "Empire FBA Prep Services In USA",
+    "description": " USA & Canada specializes in providing world class prep solutions for your Amazon FBA business.",
+    "button": "Contact Us",
+    "image": "../assets/hero.png"
+  },
+  "aboutus": {
+    "title": "About Us",
+    "subtitle": "what we do",
+    "image": "../assets/aboutus.png",
+    "description": "Empire FBA Prep Services In USA &Canada specializes in providing world class prep solutions for your Amazon FBA business. ",
+    "whatwedo": [
+      {
+        "name": "RECEIVE YOUR INVENTORY",
+        "description": "Send your products, packaging and inserts directly to one of our three locations strategically located in California, New York or Toronto Canada",
+        "icon": ""
+      },
+      {
+        "name": "PREP AND LABEL",
+        "description": "Our team will inspect all items before carefully wrapping, adding inserts, packing and attaching all the necessary labels required for delivery and receipt by Amazon",
+        "icon": ""
+      },
+      {
+        "name": "SHIP TO AMAZON",
+        "description": "Our staff of trained experts will complete your shipping plan, arrange pickup and delivery directly to your assigned Amazon fulfillment center",
+        "icon": ""
+      }
+    ]
+  },
+  "ourservices": [
+    {
+      "name": "Labeling",
+      "description": "Every unit, carton and pallet will be labeled by us as required. Rest easy knowing your shipments will arrive at their designated fulfillment centers as scheduled and on time",
+      "button": "READ MORE"
+    },
+    {
+      "name": "Bubble Wrap",
+      "description": "It’s crucial for inventory to arrive in pristine condition. All items will be carefully bubble wrapped and poly bagged as necessary to guarantee safe delivery",
+      "button": "READ MORE"
+    },
+    {
+      "name": "BUNDLING",
+      "description": "You’ve built the perfect bundle for your customers and every detail counts. Bundles will be packed by us according to current specifications as required by Amazon",
+      "button": "READ MORE"
+    }
+  ],
+  "getstarted": {
+    "title": "GET STARTED FOR AS LOW AS $0.50 ",
+    "subtitle": "How it works: Complete our service request form and provide all the required details.",
+    "description": "Once you are ready, send your products and custom packaging directly from your manufacturer or wholesaler to one of our three prep centers. Create an abbreviated shipping plan and grant Empire FBA Prep Services limited secure access via the Assistant Account on Amazon.",
+    "button": "SEND A SHIPMENT FORM",
+    "services": [
+      {
+        "title": "CREATE AN ABBREVITED SHIPPING PLAN ",
+        "description": "Create a new shipping plan in Seller Central. List the products you are sending along with quantities and then you are done!",
+        "icon": ""
+      },
+      {
+        "title": "SEND US YOUR INSTRUCTION ",
+        "description": "Complete our service request form with detailed instructions or anything special you’d like for us to do.",
+        "icon": ""
+      },
+      {
+        "title": "WE’LL TAKE IT FROM THERE",
+        "description": "Using your input our experts will carefully prepare your shipment start to finish with impeccable care and attention to detail.",
+        "icon": ""
+      }
+    ]
+  },
+  "ourteam": {
+    "title": "",
+    "subtitle": "",
+    "team": [
+      {
+        "name": " Nima Hassanpour",
+        "rule": "President",
+        "pic": ""
+      },
+      {
+        "name": "John Soos",
+        "rule": "Chief Operating Officer",
+        "pic": ""
+      },
+      {
+        "name": " Larry Stuber",
+        "rule": "East Coast Account Manager",
+        "pic": ""
+      }
+    ]
+  }
+}
