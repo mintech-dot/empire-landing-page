@@ -15,6 +15,7 @@ export default {
       'white': '#ffffff',
       'orange': '#EF7B3E',
       'light-orange': '#EF7E43',
+      'orange-hover': '#ea580c',
       'metal': '#313131',
       'silver': '#2E2E2E',
       'light-silver': '#050505',
