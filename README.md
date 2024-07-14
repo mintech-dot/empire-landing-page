@@ -54,4 +54,3 @@ This project is licensed under the MIT License.
 ## Contact
 
 - GitHub: [mintech](https://github.com/mintech-dot)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sobhi-raid/)
